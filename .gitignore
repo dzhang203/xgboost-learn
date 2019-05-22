@@ -1,0 +1,6 @@
+# python3 environment
+env
+
+# ipython checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
